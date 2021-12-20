@@ -27,7 +27,7 @@ The second deposit will see an amount of 10 in the before-after as nothing else 
 2) Add liquidity on SpiritSwap
 3) Mint SPIRIT-LPs
 4) call depositFor() in GrimBoostVault with token==ATTACKER, user==ATTACKER
-5)Leverage token.safeTransferFrom for re-entrancy
+5) Leverage token.safeTransferFrom for re-entrancy
 6) goto (4)
 7) In the last step on re-entrancy call depositFor() with token==SPIRIT-LP, user==ATTACKER
 8) Amount of minted GB-XXX-YYY tokens is increased in every level of re-entrancy
