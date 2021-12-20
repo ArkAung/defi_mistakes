@@ -18,8 +18,8 @@ The second deposit will see an amount of 10 in the before-after as nothing else 
 
 # Attack
 
-Attacker address: 0xDefC385D7038f391Eb0063C2f7C238cFb55b206C
-One of the attacking transactions: (0x19315e5b150d0a83e797203bb9c957ec1fa8a6f404f4f761d970cb29a74a5dd6)[https://ftmscan.com/tx/0x19315e5b150d0a83e797203bb9c957ec1fa8a6f404f4f761d970cb29a74a5dd6]
+* Attacker address: 0xDefC385D7038f391Eb0063C2f7C238cFb55b206C
+* One of the attacking transactions: [0x19315e5b150d0a83e797203bb9c957ec1fa8a6f404f4f761d970cb29a74a5dd6](https://ftmscan.com/tx/0x19315e5b150d0a83e797203bb9c957ec1fa8a6f404f4f761d970cb29a74a5dd6)
 
 # Steps
 
